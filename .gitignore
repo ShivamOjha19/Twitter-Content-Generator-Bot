@@ -1,2 +1,7 @@
 # Ignore environment files
 .env
+
+.test_tweets.csv
+.generated_tweets_analysis.csv
+.ready_to_post_tweets.csv
+
