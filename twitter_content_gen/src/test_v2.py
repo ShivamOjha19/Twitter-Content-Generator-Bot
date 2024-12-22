@@ -7,7 +7,7 @@ from datetime import datetime
 
 def test_collection():
     # Test with just one account at a time to avoid rate limits
-    test_usernames = ['Param_eth']  # Testing with one account first
+    test_usernames = ['']  # Testing with one account first
     max_retries = 3
     generated_tweets = []
     ready_to_post_tweets = []
