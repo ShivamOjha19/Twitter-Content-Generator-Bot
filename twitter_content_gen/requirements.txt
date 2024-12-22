@@ -1,0 +1,7 @@
+tweepy
+transformers
+torch
+pandas
+python-dotenv
+numpy
+scikit-learn
